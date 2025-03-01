@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-2s5!x)(1w_x1i3nq$vzknx$gl5+qkhe_p(asb*u7%6#k%5na-$
 DEBUG = False
 import os
 
-ALLOWED_HOSTS = ['isratr.onrender.com']
+ALLOWED_HOSTS = ['portfolio.onrender.com']
 
 
 # Application definition

@@ -28,7 +28,7 @@ DEBUG = os.getenv('DJANGO_DEBUG', 'False') == 'True'
 
 import os
 
-ALLOWED_HOSTS = ['portfolio.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['portfolio-israt.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
